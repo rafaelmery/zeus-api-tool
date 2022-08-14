@@ -1,6 +1,6 @@
 # Ferramenta  para configuração de equipamentos com ZEUS OS
 # Desenvolvido por Rafael Mery
-# Email: rafael.freitas@intelbras.com.br
+# Email: mery.rafael@gmail.com
 # Julho/22
 
 import os
